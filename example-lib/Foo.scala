@@ -1,4 +1,4 @@
 object Foo {
-  val x = "blah"
+  // blah
   val message = "hello world"
 }
